@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>hello yum</title>
+    <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet">
+  </head>
+
+  <body>
+    <h1>hello yum</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">home</a></li>
+        <li><a href="recipe.html">recipes</a></li>
+        <li><a href="about.html">about</a></li>
+      </ul>
+    </nav>
+    <br><br>
+<div class="img">
+      <img src="acai-bowl.jpg" alt="acai bowl">
+      <img src="acai-bowl-2.jpg" alt="acai bowl">
+</div>
+
+<div class="intro">
+  <h2>berry acai bowl</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum nulla id nisl viverra, et lobortis libero scelerisque. Donec imperdiet tincidunt turpis eget euismod. Suspendisse potenti. Duis egestas purus eget nisl vehicula congue. Aenean libero risus, congue eget feugiat et, ultrices sit amet dui. Duis et vehicula felis, vel pulvinar nisi. Curabitur varius consectetur vestibulum. Morbi at nunc eu turpis lacinia maximus.</p>
+    <p>Aliquam id ligula porttitor, consequat felis vitae, placerat metus. Vestibulum libero justo, congue id facilisis quis, aliquet eu diam. Phasellus accumsan erat ut eros tempus, eu tincidunt nulla elementum. Donec semper, neque non sollicitudin ornare, ligula sapien finibus augue, non fermentum nulla leo id tortor. Nulla facilisi. In hac habitasse platea dictumst. Proin sit amet condimentum nulla.</p>
+</div>
+
+<div class="recipe">
+  <h3>ingredients</h3>
+      <ul class="ingList">
+        <li><span>4</span> cups yogurt</li>
+        <li><span>3</span> fresh strawberries (cut)</li>
+        <li><span>1/2</span> cup blueberries</li>
+        <li><span>2</span> cups shaved coconut</li>
+        <li><span>1/4</span> cup flax seeds</li>
+      </ul>
+      <p>feel free to add more of your own fresh fruits!</p>
+  <h3>steps</h3>
+      <ol>
+        <li>Proin euismod sapien id pulvinar hendrerit.</li>
+        <li>Morbi libero justo, eleifend non suscipit eget, ullamcorper eu magna.</li>
+        <li>Nullam sed laoreet orci, eget volutpat nulla. Donec massa magna, interdum quis erat at, rutrum convallis eros.</li>
+        <li>Morbi turpis ex, molestie quis mollis nec, tempus mollis lectus. Duis blandit vel augue ut condimentum.</li>
+        <li>Suspendisse mi risus, porta nec condimentum nec, laoreet et nisi.</li>
+      </ol>
+</div>
+
+  </body>
+  <footer>
+    <span>eat with spoon and share with love</span>
+  </footer>
+</html>

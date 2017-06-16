@@ -1,0 +1,60 @@
+h1 {
+  font-family: Watermelon Script Demo;
+  font-size: 50px;
+  text-align: center;
+  padding:3px;
+  color: #3a3a3a;
+}
+
+nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+nav li {
+  font-family: varela, calibri;
+  font-size: 10px;
+  padding: 10px;
+  display: inline;
+}
+
+nav a {
+  color: #4b4b4b;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #aeebff;
+}
+
+.center {
+  text-align: center;
+}
+
+.intro, .recipe {
+  font-family: varela, calibri;
+  margin-left: 310px;
+  margin-right: 310px;
+}
+
+p {
+  font-size: 12px;
+  font-family: varela, calibri;
+}
+
+h2, h3 {
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+.recipe li {
+  font-size: 12px;
+}
+
+footer {
+  font-family: Hijrnotes PERSONAL USE ONLY;
+  float: right;
+  padding: 10px;
+}
